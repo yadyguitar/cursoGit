@@ -1,7 +1,10 @@
+def imprimir(mensaje):
+	print(mensaje)
+
+def imprimirLista(l):
+	print(list(l))
 
 if __name__ == "__main__":
-	print("Hola mundo")
-	lista = range(5)
-	print(list(lista))
-	#version 4
-	#version 5
+	impimir("hola mundo")
+	imprimirLista(range(5))
+
