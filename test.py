@@ -1,2 +1,6 @@
+def imprimir(mensaje):
+	print(mensaje)
+
+
 if __name__ == "__main__":
-	print("Hola mundo")
+	impimir("hola mundo")
